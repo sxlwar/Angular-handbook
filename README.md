@@ -14,7 +14,7 @@ Angular完全开发手册
 
 <img src="https://github.com/sxlwar/Angular-hand-book/blob/master/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-12-08%2001.56.20.png?raw=true">
 
-[Angular完全开发手册](http://www.hijavascript.com)，欢迎在此分享你的angular学习心得。你可以把它加入收藏夹，如果愿意的话。否则，在你需要再次找到它时请使用goole搜索关键字：angular完全开发手册。切勿使用百度，原因你懂的。
+[Angular完全开发手册](http://www.hijavascript.com)，欢迎在此分享你的angular学习心得。你可以把它加入收藏夹，如果愿意的话。否则，在你需要再次找到它时请使用goole搜索关键字：<strong>angular完全开发手册<strong>。切勿使用百度，原因你懂的。
 
 官网前端代码已开源，[传送门](https://github.com/sxlwar/ratel)。
 
